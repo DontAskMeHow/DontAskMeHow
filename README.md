@@ -1,14 +1,4 @@
-# Привет, я Александр
-
-Руководитель разработки с инженерной базой: строю инфраструктуру, инструменты и агентные
-системы. Руководил разработкой платформы управления сетью устройств (промышленный IoT):
-собрал команду с нуля, построил практики QA, CI/CD и DevOps, выполнял функции CTO.
-
-С 2024 года плотно в LLM: локальные модели и инференс-серверы (vLLM на паре DGX Spark),
-агентные системы с долговременной памятью, MCP-инструменты. Настраивал и эксплуатировал
-модели YOLO (Ultralytics) для распознавания людей по камерам.
-
-## Что я делаю
+# Доброогов времени суток, здесь вы можете встертить:
 
 ### AI/LLM и агенты
 
@@ -46,7 +36,7 @@
 
 ## Стек
 
-Python · TypeScript · C# / C (embedded) · Kubernetes (k3s/Rancher) · Docker · GitLab CI ·
+Python · TypeScript · C (embedded) · Kubernetes (k3s/Rancher) · Docker · GitLab CI ·
 Ansible · Prometheus / Grafana / VictoriaMetrics · ELK · PostgreSQL · NATS / MQTT ·
 vLLM / LLM-serving
 
