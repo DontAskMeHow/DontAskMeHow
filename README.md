@@ -37,9 +37,9 @@
 
 ## Стек
 
-Python · TypeScript · C (embedded) · Kubernetes (k3s/Rancher) · Docker · GitLab CI ·
-Ansible · Prometheus / Grafana / VictoriaMetrics · ELK · PostgreSQL · NATS / MQTT ·
-vLLM / LLM-serving
+Python · C (embedded) · Docker · GitLab CI ·
+Ansible · Grafana / VictoriaMetrics · ELK · PostgreSQL · NATS / MQTT ·
+vLLM / LLM-serving  · Kubernetes (k3s/Rancher)
 
 ## Роли
 
