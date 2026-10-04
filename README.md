@@ -8,6 +8,8 @@
 - [llm-infra-benchmarks](https://github.com/DontAskMeHow/llm-infra-benchmarks) — бенчмарки
   LLM-инференса на 2× DGX Spark (vLLM): контекст 512K, карта NIAH, QA-батареи,
   спекулятивный декодинг
+- [home-ai-gateway](https://github.com/DontAskMeHow/home-ai-gateway) — AI-шлюз: один вход перед несколькими LLM, учёт токенов и лимиты
+- [llm-stack](https://github.com/DontAskMeHow/llm-stack) — helm-чарт и kustomize-манифесты шлюза и мониторинга на одном узле k3s
 - [chrome-cdp-client](https://github.com/DontAskMeHow/chrome-cdp-client) — управление
   Chrome из Python поверх CDP: WebSocket-клиент без Selenium, копии профилей с сессиями
 - [agent-automation](https://github.com/DontAskMeHow/agent-automation) — автоматизация
