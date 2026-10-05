@@ -15,7 +15,7 @@
 - [agent-automation](https://github.com/DontAskMeHow/agent-automation) — автоматизация
   воркспейса ИИ-агента: демон периодических задач, каталог проблем, health-чеки
 - [telegram-acp-bridge](https://github.com/DontAskMeHow/telegram-acp-bridge) — управление
-  ИИ-агентом кодинга с телефона через Telegram
+  ИИ-агентом через Telegram
 
 ### Инфраструктура и CI/CD
 
